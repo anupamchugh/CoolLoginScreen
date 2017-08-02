@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CoolLoginScreen</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="referral_code">Referral Code</string>
+    <string name="register">REGISTER</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="forgot_password">Forgot Password?</string>
+</resources>
